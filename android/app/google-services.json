@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "88090817899",
+    "project_id": "jiit-counselling-62",
+    "storage_bucket": "jiit-counselling-62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88090817899:android:dd134649d73df0233ac82e",
+        "android_client_info": {
+          "package_name": "com.example.jiit_counselling_trial1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88090817899-jkju0m4db6gfip47o883kpc9l5najji0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl0c78wu5l3c33z02oD2QuLWSrQDzxR90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88090817899-jkju0m4db6gfip47o883kpc9l5najji0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88090817899-07q3maamq44ih6inahd1bp09euv7h12k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jiitScannerTrialV2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88090817899:android:2768787445d9a85c3ac82e",
+        "android_client_info": {
+          "package_name": "com.example.jiit_scanner_trial_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88090817899-jkju0m4db6gfip47o883kpc9l5najji0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl0c78wu5l3c33z02oD2QuLWSrQDzxR90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88090817899-jkju0m4db6gfip47o883kpc9l5najji0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88090817899-07q3maamq44ih6inahd1bp09euv7h12k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jiitScannerTrialV2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
